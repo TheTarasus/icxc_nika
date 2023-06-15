@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "icxc_nika",
   "version": "${version}",
 
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "ICXC NIKA",
+  "description": "888 is a number of Chist.",
   "authors": [
-    "Me!"
+    "TheTarasus_01"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
+    "homepage": "https://github.com",
     "sources": "https://github.com/FabricMC/fabric-example-mod"
   },
 
@@ -19,11 +19,14 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.example.ExampleMod"
+      "ru.thetarasus.icxcnika.iiiiiiIIIIIIIIIII.IIII"
+    ],
+    "client": [
+      "ru.thetarasus.icxcnika.iiiiiiIIIIIIIIIII.IIIII"
     ]
   },
   "mixins": [
-    "modid.mixins.json"
+    "icxc.json"
   ],
 
   "depends": {
